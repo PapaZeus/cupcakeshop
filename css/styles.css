@@ -1,0 +1,13 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  color: orange;
+  font-size: 30px;
+}
+
+body {
+  background-color: yellow;
+}
